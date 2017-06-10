@@ -4,11 +4,11 @@ layout: default
 
 # [](#header-1)**Manual for Installing RGSE**
 
-RGSE can be installed as a Java project in Eclipse, and we require you use the Linux X64 operating system.
+RGSE can be installed as a Java project in Eclipse, and we require you use the Linux X64 operating system (We have tested on Ubuntu 12.04 and 14.04).
 
 * * *
 
-To run **RGSE**, The Java IDE **Eclipse** needs to support the **PDE** (Plug-in Develop Environment) [[Eclipse Download Link]](http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/kepler/SR2/eclipse-jee-kepler-SR2-linux-gtk-x86_64.tar.gz) , and JDK1.7 [[JDK Download Link]](http://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html) is also required to be installed. We suppose that you have created a Java project named **AnalysisDriver**
+To run **RGSE**, The Java IDE **Eclipse** needs to support the **PDE** (Plug-in Development Environment) [[Eclipse Download Link]](http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/kepler/SR2/eclipse-jee-kepler-SR2-linux-gtk-x86_64.tar.gz) , and JDK1.7 [[JDK Download Link]](http://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html) is also required to be installed. We suppose that you have created a Java project named **AnalysisDriver**
 
 ## [](#header-2)**(1). Install Z3**
 
@@ -18,11 +18,11 @@ Put **libz3.so** [[Download Link]](https://github.com/jrgse/jrgse/blob/master/li
 
 Create a folder named **lib** in the directory **"pathToAnalysisDriver/"**, and put the auxiliary Jar files [[Download Link]](https://github.com/jrgse/jrgse/tree/master/jar_files) in the **lib**. Then, you should add all the Jar files to the **build path** of the **AnalysisDriver project** (Select all the Jar files -->Right click -->Build Path -->Add to Build Path).
 
-## [](#header-2)**(3). Creat the File for JPF-nhandler**
+## [](#header-2)**(3). Creat the Folder for JPF-nhandler**
 
 Create a folder called **"onthefly"** in the directory **"pathToAnalysisDriver/"** (Note that such a folder is essential to run JPF-nhandler).
 
-## [](#header-2)**(4). Import the WALA Project**
+## [](#header-2)**(4). Import the WALA Projects**
 
 Download the **WALA** projects [[Download Link]](https://github.com/jrgse/jrgse/tree/master/wala), and import all the wala projects to the workspace of **AnalysisDriver**. Then, add them to the dependent projects of the **AnalysisDriver project** (project-properties --> Java build path --> projects). Note that you need to configure **WALA** according to your **JDK** installation, i.e., change the value of **java_runtime_dir** in the file **com.ibm.wala.core/dat/wala.properties** to your own installed Java lib. All the downloaded wala projects have been compiled, you don't need to build them.
 
