@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<title>Manual for Installing RGSE</title>
 
 ## **Manual for Installing RGSE**
 
