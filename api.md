@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-# [](#header-1)API Documentation
+## **API Documentation**
 
 We explain the main APIs used in writing the specification and configuring **RGSE**.
 
@@ -37,4 +36,3 @@ The functions in class MonitorWithDFA are used to build a Java monitor.
 ## [](#header-2)**Function for initializing arguments.**
 
 <p><font color="#0000FF" size="4">initArgs(String[] args) :</font> This function sets the running configuration. The parameter args is an array with seven string elements, and they represent <i><b>call string bound</b></i>, <i><b>property guided</b></i>, <i><b>refinement flag</b></i>, <i><b>iteration number</b></i>, <i><b>iteration period</b></i>, <i><b>result file name</b></i>, and <i><b>slicing flag</b></i>, respectively. For example, suppose the args equals {"1", "1", "0", "-1", "0,0,100,0","","0"}, then the call string bound is 1, and <b>RGSE</b> will run in the guiding mode with no refinement, no iteration threshold, 100 seconds time threshold (the types of the four elements are hour, minute, second, millisecond, respectively), empty result file, and no slicing.</p>
-

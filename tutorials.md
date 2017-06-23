@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-# [](#header-1)**Tutorials**
+## **Tutorials**
 
 We provide two tutorials for RGSE. We first apply RGSE to analyze a **motivation** program with respect to the <font color="#0000FF">reader </font>property, i.e., the **InputStreamReader** cannot read while closed. Then, we present the analysis of program **Rohino-a** with respect to the <font color="#0000FF">Enumeration</font> property, i.e., invoking hasMoreElements before nextElement.
 

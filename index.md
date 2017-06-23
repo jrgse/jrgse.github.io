@@ -36,20 +36,18 @@ The technique implemented by **RGSE** was presented in [[1]](#jump).
 
 # [](#header-1)**Demonstration Video**
 
-<iframe width="560" height="315" 
+<iframe width="560" height="315"
  src="https://www.youtube.com/embed/7zAhvRIdaUU" frameborder="0" allowfullscreen>
-     
+
  </iframe>
 
 * * *
 
 # [](#header-1)**Contacts**
 
-```
-(1). Hengbiao Yu : hengbiaoyu@nudt.edu.cn
-(2). Yufeng Zhang : yuffonzhang@163.com
-(3). Zhenbang Chen : zbchen@nudt.edu.cn
-```
+Please feel free to contact us if you have any problem.
+
+*   <font color="#0000FF" size="4">rgse4java@gmail.com</font>
 
 * * *
 

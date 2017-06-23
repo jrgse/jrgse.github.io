@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-# [](#header-1)Manual for Installing and Running the Docker Image
+## **Manual for Installing and Running the Docker Image**
 
 We suggest you use the **Linux** operating system and run the commands as the **root** user.
 
@@ -40,6 +39,4 @@ The results are stored in the directory **"/root/result"** that you created in s
 
 Please feel free to contact us if you have any problem.
 
-*   <font color="#0000FF" size="4">hengbiaoyu@nudt.edu.cn</font>
-*   <font color="#0000FF" size="4">yuffonzhang@163.com</font>
-*   <font color="#0000FF" size="4">zbchen@nudt.edu.cn</font>
+*   <font color="#0000FF" size="4">rgse4java@gmail.com</font>

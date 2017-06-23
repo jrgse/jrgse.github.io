@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [](#header-1)**Manual for Installing RGSE**
+## **Manual for Installing RGSE**
 
 RGSE can be installed as a Java project in Eclipse, and we require you use the Linux X64 operating system (We have tested on Ubuntu 12.04 and 14.04).
 
@@ -46,8 +46,4 @@ Build the **AnalysisDriver project**, and run it as a Java application.
 
 Please feel free to contact us if you have any problem.
 
-*   <font color="#0000FF" size="4">hengbiaoyu@nudt.edu.cn </font>
-
-*   <font color="#0000FF" size="4">yuffonzhang@163.com </font>
-
-*   <font color="#0000FF" size="4">zbchen@nudt.edu.cn </font>
+*   <font color="#0000FF" size="4">rgse4java@gmail.com</font>
