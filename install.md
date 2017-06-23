@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-<title>Manual for Installing RGSE</title>
 
-## **Manual for Installing RGSE**
+## Manual for Installing RGSE
 
 RGSE can be installed as a Java project in Eclipse, and we require you use the Linux X64 operating system (We have tested on Ubuntu 12.04 and 14.04).
 
