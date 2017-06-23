@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## **API Documentation**
+## API Documentation
 
 We explain the main APIs used in writing the specification and configuring **RGSE**.
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## **Manual for Installing and Running the Docker Image**
+## Manual for Installing and Running the Docker Image
 
 We suggest you use the **Linux** operating system and run the commands as the **root** user.
 
