@@ -51,6 +51,7 @@ Please feel free to contact us if you have any problem.
 
 * * *
 <span id="jump">[1]</span>. Hengbiao Yu, Zhenbang Chen, Yufeng Zhang, Ji Wang, Wei Dong. RGSE: A Regular Property Guided Symbolic Executor for Java, in 11th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE 2017), Tool Demo, ACM Press, pp: 954-958. ([PDF](http://zbchen.github.io/Papers_files/fse2017demo.pdf))
+<br>
 <span id="jump">[2]</span>. Yufeng Zhang, Zhenbang Chen, Ji Wang, Wei Dong, Zhiming Liu. Regular Property Guided Dynamic Symbolic Execution, in 37th IEEE/ACM International Conference on Software Engineering (ICSE 2015), IEEE Press, pp: 643-653. ([PDF](http://zbchen.github.io/Papers_files/icse2015.pdf))
 
 * * *
